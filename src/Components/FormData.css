@@ -1,0 +1,68 @@
+.main {
+  border: 4px solid black;
+  width: 800px;
+  min-height: 500px;
+  text-align: center;
+  margin: auto;
+  margin-top: 60px;
+  border-radius: 5px;
+}
+
+.box1 {
+  border-top: 4px solid black;
+  min-height: 160px;
+}
+
+.box2 {
+  border-top: 4px solid black;
+  height: 200px;
+  background-color: rgb(214, 214, 103);
+  display: flex;
+  text-align: left;
+  padding: 30px;
+  font-size: 25px;
+}
+
+table {
+  width: 100%;
+  font-size: 18px;
+}
+
+th {
+  background-color: rgb(214, 214, 103);
+}
+
+.btn-x {
+  float: right;
+  margin-top: -60px;
+  width: 40px;
+  height: 40px;
+  font-size: 24px;
+  margin-right: 10px;
+  background-color: rgb(214, 214, 103);
+  border-radius: 6px;
+}
+
+.box2-form {
+  width: 65%;
+}
+
+.box2-form table {
+  width: 70%;
+}
+
+.box2-btn {
+  width: 35%;
+}
+
+.box2-btn button {
+  height: 36px;
+  width: 120px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.selected {
+  background-color: lightcoral;
+}
